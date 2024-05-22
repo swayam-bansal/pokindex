@@ -1,0 +1,8 @@
+.pokeCard {
+    display: inline-block;
+    text-align: center;
+}
+
+.pokeImg {
+    display: block;
+}
